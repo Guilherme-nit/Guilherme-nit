@@ -2,9 +2,9 @@
 
 
   <div align="center">
-  <a href="https://github.com/bielpjk">
-  <img height="180em"width="49%" src="https://github-readme-stats.vercel.app/api?username=bielpjk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielpjk&layout=compact&langs_count_private=true&theme=dracula"/>
+  <a href="https://github.com/Guilherme-nit">
+  <img height="180em"width="49%" src="https://github-readme-stats.vercel.app/api?username=Guilherme-nit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-nitk&layout=compact&langs_count_private=true&theme=dracula"/>
 </div>
     
 <div align="center">
